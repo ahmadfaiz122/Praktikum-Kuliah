@@ -1,7 +1,0 @@
-tipe variable primitif
-int
-float
-double
-char
-string
-long long
